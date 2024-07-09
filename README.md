@@ -16,11 +16,11 @@ This Flutter project is a simple To-Do List application where users can manage t
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/add.jpg" alt="Add Page" width="500"/>
+      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/add.jpg" alt="Add Page" width="400"/>
       <p>Edit Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/homejpg" alt="Home Page" width="500"/>
+      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/home.jpg" alt="Home Page" width="400"/>
       <p>Home Page</p>
     </td>
   </tr>
