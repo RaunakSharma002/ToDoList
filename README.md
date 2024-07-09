@@ -16,20 +16,12 @@ This Flutter project is a simple To-Do List application where users can manage t
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/DriverRide/blob/main/images/login.jpg" alt="Login Page" width="200"/>
-      <p>Login Page</p>
+      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/add.jpg" alt="Add Page" width="500"/>
+      <p>Edit Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/DriverRide/blob/main/images/home.jpg" alt="Home Page" width="200"/>
+      <img src="https://github.com/RaunakSharma002/ToDoList/blob/main/homejpg" alt="Home Page" width="500"/>
       <p>Home Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/DriverRide/blob/main/images/rating.jpg" alt="Rating Page" width="200"/>
-      <p>Rating Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/DriverRide/blob/main/images/earning.jpg" alt="Earnings Page" width="200"/>
-      <p>Earnings Page</p>
     </td>
   </tr>
 </table>
